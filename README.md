@@ -8,4 +8,9 @@ In it you will find the slides from the talk as well as some code for Macaulay2:
 
 Macaulay2 can be found at https://macaulay2.com/ with a web-based version available at https://www.unimelb-macaulay2.cloud.edu.au/.
 
+**To run this in the Web version**
+* Open Web version, hit Start.
+* Open all three of the above files.
+* Navigate to CADecompositionExamples.m2 and run the first few lines to install CADecomposition, uninstall the old RealRoots and install RealRootsNew.
+
 Any questions, comments or thoughts, feel free to email me at cel34@bath.ac.uk
